@@ -1,0 +1,51 @@
+body {
+    background-color: pink;
+    font-family: 'Lobster', cursive;
+    color: #6600ff;
+}
+
+h1 {
+
+    display: flex;
+    justify-content: center;
+    padding: 20px;
+    font-size: 40px;
+}
+
+h2 {
+    display: flex;
+    justify-content: center;
+    padding: 20px;
+    font-size: 43px;
+}
+
+img {
+    width: 450px;
+
+}
+
+.b {
+    display: flex;
+    justify-content: center;
+}
+
+div {
+    margin: 10px;
+    padding: 10px;
+}
+
+.C {
+    display: none;
+}
+
+.d {
+    display: none;
+}
+
+.E {
+    display: none;
+}
+
+.F {
+    display: none;
+}
